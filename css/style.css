@@ -1,0 +1,161 @@
+/* CSS Document */
+
+body
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#330000;
+	line-height:130%;
+}
+TABLE TD
+{
+	vertical-align:top;
+}
+#content
+{
+	width:1005px;
+	margin:auto;
+}
+#banner
+{
+	width:1005px;
+	height:75px;
+	background:url(../imgs/topbanner.png);
+}
+#menu
+{
+	background:url(../imgs/topmenubg.png) repeat-x;
+	height:27px;
+	padding:0px;
+	padding-left:38px;
+}
+#menu LI
+{	vertical-align:middle;
+	list-style:none;
+	float:left;
+	margin-right:22px;
+	padding-top:6px;
+	color:#fff;
+}
+#menu LI a
+{
+	text-decoration:none;
+	color:#fff;
+}
+#menu LI a:visited
+{
+	text-decoration:none;
+	color:#fff;
+}
+#menu LI a:hover
+{
+	text-decoration:none;
+	color:#996633;
+}
+#language
+{
+	text-align:right;
+	vertical-align:middle;
+	border-right:1px solid #ccc;
+	border-left:1px solid #ccc;
+	padding:5px;
+	padding-right:26px;
+}
+
+#bodyleft
+{
+	width:287px;
+	padding-right:12px;
+}
+#bodyright
+{
+	width:704px;
+}
+#br-left
+{
+	width:512px;
+	height:254px;
+	text-align:center;
+	background: url(../imgs/bienvenue.jpg);
+}
+#br-right
+{
+	width:167px;
+	height:248px;
+	text-align:center;
+}
+
+#br-right LI
+{
+	list-style:none;
+	border-bottom:1px solid #ccc;
+	margin-top:15px;
+	text-align:justify;	
+}
+
+/* text page */
+#topnav
+{
+	margin-left:75px;
+	padding-top:5px;
+	float:left;
+	color:#959595;
+}
+#lefttextpage
+{
+	width:570px;
+	margin-left:80px;
+	text-align:justify;
+}
+#rightnav
+{
+	width:167px;
+	height:248px;
+	margin:auto;
+}
+#rightnav a
+{
+	text-decoration:none;
+	color:#330000;
+}
+#rightnav a:visited
+{
+	text-decoration:none;
+}
+#footer
+{
+	clear:both;
+	width:1005px;
+	height:52px;
+	background:url(../imgs/footerbg.gif) no-repeat;
+	text-align: center;
+	padding-top:4px;
+	color: #777777;
+}
+#footer a
+{
+	text-decoration:none;
+	color:#777777;
+}
+#footer a:visited
+{
+	text-decoration:none;
+	color:#777777;
+}
+#footer a:hover
+{
+	text-decoration:none;
+	color: #330000;
+}
+.lipadding LI
+{
+	padding-bottom:10px;
+}
+.partner TD
+{
+	vertical-align:bottom;
+}
+TD.rightalign
+{
+	text-align:right;
+}
